@@ -1,6 +1,6 @@
 # helpShiftAssignment
-
-```1. Code will execute by command `python helpShift.py`
+```
+1. Code will execute by command `python helpShift.py`
 2. Test will execute by command `python test.py`
 3. This take 3 Parameters
       1 - Add new contact
@@ -11,4 +11,5 @@
             2. Partial first name mathes
             3. Partial last name mathes
       3. Exit.
-          exit from code. ```
+          exit from code. 
+```
